@@ -147,9 +147,9 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://bit.ly/HorrorMovies4u> Ways 2 Download Horror Movies </a> 」──────
+<b> ─「<a href=https://bit.ly/HorrorMovies4u> Ways 2 Download Horror Movies </a> 」──
 
-Yᴏᴜ ᴄᴀɴ Watch online or Download Easily.
+Yᴏᴜ ᴄᴀɴ Watch online or Download .
 We Have Hd Quality Watch Online 1080p
 150+ Vast Collect of Best Horror Movies Available 
  </b>
