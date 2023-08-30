@@ -191,8 +191,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/+pl4rB-xx8ltlOTE1> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=https://t.me/+ps2An00KwZYwNTRl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/BhootBazar> Horror Movies </a>
+▫️<a href=https://t.me/freehdmovieforyou> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
